@@ -1,4 +1,4 @@
-# cardiovascular-super4-
+# cardiovascular-super4
 The Significance of Automated ECG Arrhythmia Classification
 1. Introduction: The Pervasive Challenge of Cardiovascular Diseases
 Cardiovascular diseases (CVDs) represent a paramount global health concern, consistently ranking as the leading cause of mortality worldwide. Within the spectrum of CVDs, cardiac arrhythmias—abnormalities in the heart's rhythm—are a significant contributor to morbidity and mortality. These irregularities can range from benign palpitations to life-threatening conditions such as ventricular fibrillation, which can lead to sudden cardiac death if not promptly addressed. The timely and accurate diagnosis of arrhythmias is therefore critical for effective patient management, treatment planning, and ultimately, improving patient outcomes.
